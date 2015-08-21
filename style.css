@@ -1,0 +1,25 @@
+body {
+  padding: 0 21px;
+  font-family: helvetica, sans-serif;
+}
+.box {
+  border: solid 3px #c2c2c2;
+  margin: 11px 0;
+  padding: 0 7px;
+  border-radius: 11px;
+  -moz-border-radius: 11px;
+  -ms-border-radius: 11px;
+  -webkit-border-radius: 11px;
+}
+.winter {
+  background-color: #fefefa;
+}
+.spring {
+  background-color: #bada55;
+}
+.summer {
+  background-color: #f0a711;
+}
+.fall {
+  background-color: #f48352;
+}
